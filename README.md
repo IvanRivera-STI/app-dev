@@ -1,21 +1,21 @@
-# My Favorite Series: Stranger Things
+# My Favorite Series: Snowfall
 
-I have watched a lot of shows, but **Stranger Things** is the one I keep going back to. It is a science fiction and horror series made by the *Duffer Brothers* for Netflix.
+Out of all the shows I have watched, **Snowfall** is my favorite. It is a crime drama created by *John Singleton* and it aired on FX.
 
 ---
 
 ## What It Is About
 
-The story is set in a small town called Hawkins, Indiana, in the 1980s. A boy goes missing one night, and his friends start looking for him on their own. While searching, they meet a girl with strange powers and slowly find out that their quiet town is hiding something much bigger than they expected.
+The story is set in Los Angeles in 1983. It follows Franklin Saint, a smart young man from South Central who starts selling drugs to make money for his family. What begins as a small side hustle slowly turns into something much bigger than he can control, and the show also shows how it changed the whole neighborhood around him.
 
-> What keeps me watching is not really the monsters. It is the way the group of friends sticks together even when everything around them is falling apart.
+> The part that stuck with me is that Franklin is not written as a simple villain. You watch him make one choice at a time, and each one makes sense to him, even when you can already see where it is going.
 
 ## Why I Like It
 
-- The friendships feel real instead of forced
-- The 1980s setting, the clothes and the music are fun to look at
-- Each season gives a new mystery instead of repeating the old one
-- ~~The pacing is too slow~~ The pacing takes its time, and I think it works
+- Franklin feels like a real person instead of just a criminal character
+- The 1980s Los Angeles setting, the cars and the clothes look great
+- The story connects a family drama with something much bigger
+- The slow parts build the tension, so I do not mind them
 
 ### My Ratings
 
@@ -23,15 +23,15 @@ The story is set in a small town called Hawkins, Indiana, in the 1980s. A boy go
 | --- | --- |
 | Story | 5/5 |
 | Characters | 5/5 |
-| Visual effects | 4/5 |
-| Soundtrack | 5/5 |
+| Setting and style | 5/5 |
+| Ending | 4/5 |
 
 ## Characters I Like the Most
 
-1. Eleven
-2. Dustin Henderson
-3. Steve Harrington
-4. Max Mayfield
+1. Franklin Saint
+2. Leon Simmons
+3. Louie Saint
+4. Jerome Saint
 
 ## Seasons I Still Want to Rewatch
 
@@ -39,17 +39,19 @@ The story is set in a small town called Hawkins, Indiana, in the 1980s. A boy go
 - [x] Season 2
 - [ ] Season 3
 - [ ] Season 4
+- [ ] Season 5
+- [ ] Season 6
 
 ## A Small Code Example
 
-I am also learning programming, so here is a short `Python` snippet about the show:
+I am also studying programming, so here is a short `Python` snippet about the show:
 
 ```python
-favorite_series = "Stranger Things"
-favorite_character = "Eleven"
+favorite_series = "Snowfall"
+main_character = "Franklin Saint"
 
 print(f"My favorite series is {favorite_series}.")
-print(f"My favorite character is {favorite_character}.")
+print(f"The main character is {main_character}.")
 ```
 
 ## Links
